@@ -1,0 +1,27 @@
+{
+  "overview": "Seven Corporation is a premium multi-service platform combining real estate and insurance advisory under one roof. Designed as an immersive asset advisory experience with dynamic service toggles, investment-focused property listings, trust signals, and high-conversion CTAs — targeting property buyers, investors, and insurance clients in Vadodara.",
+  "features": [
+    "Dynamic split-screen hero with animated real estate and insurance visuals",
+    "Interactive Property ↔ Insurance service toggle with full UI morphing",
+    "Demo property listings with ROI indicators, rental yield tags, and investment badges",
+    "Buy/Lease/Invest toggle with smart filters on property cards",
+    "Fintech-style insurance section with policy comparison tabs",
+    "Trust & Authority section with count-up ratings and review carousel",
+    "Floating WhatsApp + sticky call CTA linked to real contact number",
+    "Scroll-triggered animations, cursor effects, and skeleton loading shimmer",
+    "Location & market insight map highlighting Gotri/Sevasi investment zones",
+    "SEO-optimized for Vadodara real estate and insurance keywords"
+  ],
+  "category": "business-finance",
+  "tags": [
+    "real-estate",
+    "insurance",
+    "vadodara",
+    "property",
+    "investment",
+    "landing-page",
+    "corporate",
+    "premium"
+  ],
+  "last_updated": "2026-04-20T13:20:52.991Z"
+}
